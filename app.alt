@@ -1,0 +1,2 @@
+inpt set io.gt(limit = 1);
+io.wr(inpt);;
